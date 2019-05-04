@@ -7,7 +7,11 @@ public class QueueClass<T> {
 		private Node next;
 
 		private Node(T item) {
+<<<<<<< HEAD
 			// this.data = data;
+=======
+			//this.data = data;
+>>>>>>> 37b85bcee83a7b8d194ccff748622c6685a3cd71
 			// this.next = null;
 		}
 
@@ -60,6 +64,7 @@ public class QueueClass<T> {
 
 	}
 
+<<<<<<< HEAD
 	// display
 	public void display() {
 		Node current = head;
@@ -69,4 +74,6 @@ public class QueueClass<T> {
 		}
 	}
 
+=======
+>>>>>>> 37b85bcee83a7b8d194ccff748622c6685a3cd71
 }

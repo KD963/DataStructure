@@ -16,9 +16,15 @@ public class PalindromeChecker {
 		DequeClass deque = new DequeClass();
 
 		char[] charString = string.toCharArray();
+<<<<<<< HEAD
 		//char i;
 		//int front = 0;
 		//int rear = 0;
+=======
+		char i;
+		int front = 0;
+		int rear = 0;
+>>>>>>> 37b85bcee83a7b8d194ccff748622c6685a3cd71
 
 		/*
 		 * for(i = 0; i < charString.length-1; i++) { System.out.println(charString[i]);
